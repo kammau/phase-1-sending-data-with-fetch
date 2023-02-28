@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Cera",
+      "dogBreed": "Scotch Collie",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,140 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "KAM",
+      "email": "prog",
+      "id": 1
+    },
+    {
+      "name": "KAM",
+      "email": "prog",
+      "id": 2
+    },
+    {
+      "name": "KAM",
+      "email": "prog",
+      "id": 3
+    },
+    {
+      "name": "KAM",
+      "email": "prog",
+      "id": 4
+    },
+    {
+      "name": "KAM",
+      "email": "prog",
+      "id": 5
+    },
+    {
+      "name": "KAM",
+      "email": "prog",
+      "id": 6
+    },
+    {
+      "name": "KAM",
+      "email": "prog",
+      "id": 7
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 8
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 9
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 10
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 11
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 12
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 13
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 14
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 15
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 16
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 17
+    },
+    {
+      "name": "KAM",
+      "email": "prog",
+      "id": 18
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 19
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
